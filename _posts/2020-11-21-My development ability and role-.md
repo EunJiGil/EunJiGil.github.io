@@ -3,7 +3,7 @@ layout: post
 title: 3. My development ability and role
 subtitle: Ability to develop and carry out projects
 cover-img: /assets/img/path.jpg
-thumbnail-img: 
+thumbnail-img: /assets/img/rhythm.jpg
 share-img: /assets/img/path.jpg
 tags: [teamproject, oss]
 ---
