@@ -10,7 +10,7 @@ tags: [teamproject, oss]
 
 Hi guys Today, I am going to analyze the selected topic and think about the direction of improvement in detail. 
 
-1. Analysis of Selected Projects 
+1) Analysis of Selected Projects 
 
 Our project is **free-python-games**. This project is simple games **made for education**. Currently, there are 15 games in total.
 
@@ -49,7 +49,7 @@ Connect -- Connect 4 game. Click a row to drop a disc. The first player to conne
 Pacman -- classic arcade game. Use the arrow keys to navigate and eat all the white food. Watch out for red ghosts that roam the maze.
 ![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
 
-2. Improvement of Selected Projects 
+2) Improvement of Selected Projects 
 
 {: .box-note}
 We decided on the direction of improvement as follows.
@@ -60,14 +60,23 @@ Therefore, we investigate games that are not among the current types of games, s
 Therefore, we divided our improvements into 10 categories.
 
 1) Organizing opinions presented to the community and organizing them on the static page (using a timeline)
+
 2) Planning and developing games
+
 3) Creating educational documents for developed games
+
 4) The role of leading the overall workflow of the team and modifying the overall commit (commit manager)
+
 5) Finishing the introduction of team members and projects on the static page
+
 6) Posting production that describes the game we develop on the static page, features, etc.
+
 7) Translating written educational documents into English
+
 8) Managing Wiki pages
+
 9) Modifing game bugs
+
 10) Annotating Code
 
 Among these roles, the roles I can contribute to will be posted again next time.
