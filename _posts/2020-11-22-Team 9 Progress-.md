@@ -12,10 +12,11 @@ Hi guys today let me tell you about the progress of Team 9! We used the Github i
 
 1. The first topic was about selecting a new topic. We've tried to use the product of the original topic for the past week. However, we needed an account to try out the product under the previous theme, but the whole team didn't receive the account, which led to the delay. So we asked our assistant if we could change the subject and found a new one. We revisited the opinions we presented last week and explored new topics. And we decided on a new project called Python Games as our semester theme. Below is the screenshot of our meeting.
 
-/assets/img/projecttopic1.jpg
-/assets/img/projecttopic2.jpg
-/assets/img/projecttopic3.jpg
-/assets/img/projecttopic4.jpg
+![projecttopic1](https://user-images.githubusercontent.com/55980214/99897038-60e3cf80-2cd9-11eb-962d-cdf068591d4f.JPG)
+![projecttopic2](https://user-images.githubusercontent.com/55980214/99897039-6214fc80-2cd9-11eb-9678-8bfda35c5bf5.JPG)
+![projecttopic3](https://user-images.githubusercontent.com/55980214/99897041-6214fc80-2cd9-11eb-8337-4a1982997669.JPG)
+![projecttopic4](https://user-images.githubusercontent.com/55980214/99897042-62ad9300-2cd9-11eb-8f99-b9d1814f1245.JPG)
+
 
 At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
