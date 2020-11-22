@@ -28,6 +28,8 @@ Therefore, I can participate hard in developing games.
 
 {: .box-note}
 2) My role in Team 9
+
+
 My strength is that I can communicate very well. And I do my best to participate in the team project.
 So, I'm not the team leader of the 9th team, but I think I'm showing as much participation and leadership as the team leader.
 I am currently writing a personal blog. So I'm very interested in managing the static page.
