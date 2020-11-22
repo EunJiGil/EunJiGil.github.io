@@ -24,18 +24,27 @@ The goal was to have fun as much as it was to learn. Since then the games have b
 
 Currently, there are 15 games in total, and I will show them briefly below.
 
+
 **Paint**
 Paint -- draw lines and shapes on the screen. Click to mark the start of a shape and click again to mark its end. Different shapes and colors can be selected using the keyboard.
 ![paint](https://user-images.githubusercontent.com/55980214/99898830-ecfcf380-2ce7-11eb-91d0-33666c24eddb.JPG)
+
+
 **Fidget**
 Fidget -- fidget spinner inspired animation. Click the screen to accelerate the fidget spinner.
 ![fidget](https://user-images.githubusercontent.com/55980214/99898824-dce51400-2ce7-11eb-8ce5-d29f22ee9725.JPG)
+
+
 **Tiles**
 Tiles -- puzzle game of sliding numbers into place. Click a tile adjacent to the empty square to swap positions. Can you make the tiles count one to fifteen from left to right and bottom to top?
 ![tiles](https://user-images.githubusercontent.com/55980214/99898826-de164100-2ce7-11eb-844a-4a3bd93618d7.JPG)
+
+
 **Connect**
 Connect -- Connect 4 game. Click a row to drop a disc. The first player to connect four discs vertically, horizontally, or diagonally wins!
 ![connect](https://user-images.githubusercontent.com/55980214/99898827-deaed780-2ce7-11eb-9bfb-63e5737ab7d9.JPG)
+
+
 **Pacman**
 Pacman -- classic arcade game. Use the arrow keys to navigate and eat all the white food. Watch out for red ghosts that roam the maze.
 ![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
