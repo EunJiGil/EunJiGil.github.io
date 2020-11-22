@@ -3,7 +3,7 @@ layout: post
 title: 2. Analysis and Improvement of Selected Projects
 subtitle: Selected Projects : free-python-games 
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/games.jpg
+thumbnail-img: 
 share-img: /assets/img/path.jpg
 tags: [teamproject, oss]
 ---
@@ -11,6 +11,7 @@ tags: [teamproject, oss]
 Hi guys Today, I am going to analyze the selected topic and think about the direction of improvement in detail. 
 
 1. Analysis of Selected Projects 
+
 Our project is **free-python-games**. This project is simple games **made for education**. Currently, there are 15 games in total.
 
 ### Free-python-games
@@ -39,7 +40,6 @@ Pacman -- classic arcade game. Use the arrow keys to navigate and eat all the wh
 ![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
 
 2. Improvement of Selected Projects 
-### Notification
 
 {: .box-note}
 We decided on the direction of improvement as follows.
