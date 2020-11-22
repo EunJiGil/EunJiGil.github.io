@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Eunji Gil
+subtitle: majoring in business administration and software
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Eunji Gil. I live in South Korea. Next is my interests these days:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Cloud computing
+- Database
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I made this static page while taking an OpenSourceSoftware lab course.
+I'm going to introduce the project that my team will be working on during this semester and share the future progress.
+Stay tuned!
+
+![KakaoTalk_20200802_113543099](https://user-images.githubusercontent.com/55980214/99893375-a943c300-2cc2-11eb-816a-a5795d484f3a.jpg)
