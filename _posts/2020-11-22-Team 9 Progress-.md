@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team 9 Progress
+title: 1. Team 9 Progress
 subtitle: Using the GitHub Issues
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.jpg
@@ -10,7 +10,8 @@ tags: [books, test]
 
 Hi guys today let me tell you about the progress of Team 9! We used the Github issues page to conduct several meetings. 
 
-1. The first topic was about selecting a new topic. We've tried to use the product of the original topic for the past week. However, we needed an account to try out the product under the previous theme, but the whole team didn't receive the account, which led to the delay. So we asked our assistant if we could change the subject and found a new one. We revisited the opinions we presented last week and explored new topics. And we decided on a new project called Python Games as our semester theme. Below is the screenshot of our meeting.
+##1. New Topic##
+The first topic was about selecting **a new topic for semester**. We've tried to use the product of the original topic for the past week. However, we needed an account to try out the product under the previous theme, but the whole team didn't receive the account, which led to the delay. So we asked our assistant if we could change the subject and found a new one. We revisited the opinions we presented last week and explored new topics. And we decided on a new project called Python Games as our semester theme. Below are the screenshots of our meeting.
 
 ![projecttopic1](https://user-images.githubusercontent.com/55980214/99897038-60e3cf80-2cd9-11eb-962d-cdf068591d4f.JPG)
 ![projecttopic2](https://user-images.githubusercontent.com/55980214/99897039-6214fc80-2cd9-11eb-9678-8bfda35c5bf5.JPG)
@@ -18,6 +19,9 @@ Hi guys today let me tell you about the progress of Team 9! We used the Github i
 ![projecttopic4](https://user-images.githubusercontent.com/55980214/99897042-62ad9300-2cd9-11eb-8f99-b9d1814f1245.JPG)
 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+##2. Select a community and plan activities##
+We had a second meeting to select a community and plan our activities. We used 'Github issues' for a week, and we were really satisfied, so we chose github issues as our community. And we decided to subdivide our roles, and we found last year's data for reference. Also, we decided on the issues and considerations during the activity and listed the activities we needed. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+![community1](https://user-images.githubusercontent.com/55980214/99897193-d1d7b700-2cda-11eb-83d4-b1695ce0ceaf.JPG)
+![community3](https://user-images.githubusercontent.com/55980214/99897196-d308e400-2cda-11eb-9f44-886c005fa73b.JPG)
+![community2](https://user-images.githubusercontent.com/55980214/99897197-d308e400-2cda-11eb-8040-b56f6254d9b5.JPG)
