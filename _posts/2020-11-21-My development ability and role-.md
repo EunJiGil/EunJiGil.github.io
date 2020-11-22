@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 3. Analysis of my development ability and role
+title: 3. My development ability and role
 subtitle: Ability to develop and carry out projects
 cover-img: /assets/img/path.jpg
 thumbnail-img: 
