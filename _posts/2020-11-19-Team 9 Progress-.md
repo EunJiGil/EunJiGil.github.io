@@ -5,7 +5,7 @@ subtitle: Using the GitHub Issues
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [teamproject, oss]
 ---
 
 Hi guys today let me tell you about the progress of Team 9! We used the Github issues page to conduct several meetings. 
