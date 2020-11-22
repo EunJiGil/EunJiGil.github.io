@@ -1,9 +1,9 @@
 ---
 layout: post
-title: [Team9] _ 11/22
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Team 9 Progress
+subtitle: Using the GitHub Issue
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
