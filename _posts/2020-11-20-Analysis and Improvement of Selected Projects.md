@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 2. Analysis and Improvement of Selected Projects
-subtitle: Selected Projects : free-python-games 
+subtitle: Selected Projects - free-python-games 
 cover-img: /assets/img/path.jpg
 thumbnail-img: 
 share-img: /assets/img/path.jpg
