@@ -23,6 +23,7 @@ Starting in 2012, Free Python Games began as an after school program to teach pr
 The goal was to have fun as much as it was to learn. Since then the games have been improved and used in a variety of settings ranging from classrooms to summer day-camps. The games run anywhere Python can be installed which includes desktop computers running Windows, Mac OS, or Linux and older or low-power hardware such as the Raspberry Pi. Kids across the United States in grades 6th-12th have enjoyed learning about topics such as encryption and projectile motion through games. Each game is entirely independent from the others and includes comments along with a list of exercises to work through with students. Creativity and flexibility is important. There is no right or wrong way to implement a new feature or behavior! You never know which games students will engage with best.
 
 Currently, there are 15 games in total, and I will show them briefly below.
+
 **Paint**
 Paint -- draw lines and shapes on the screen. Click to mark the start of a shape and click again to mark its end. Different shapes and colors can be selected using the keyboard.
 ![paint](https://user-images.githubusercontent.com/55980214/99898830-ecfcf380-2ce7-11eb-91d0-33666c24eddb.JPG)
