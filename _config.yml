@@ -2,8 +2,8 @@
 name: "Hailey Gil"
 title: "Hailey Gil"
 description: "virtual try-on"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 url: 'https://eunjigil.github.io'
 baseurl: ''
 google_analytics: ''
@@ -17,7 +17,7 @@ authors:
   Hailey:
     name: Hailey
     display_name: Hailey
-    gravatar: 'assets/images/avatar.png'
+    gravatar: 'assets/images/logo.jpg'
     email: ''
     web: https://eunjigil.github.io
     twitter: ''
